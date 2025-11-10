@@ -1,2 +1,2 @@
 # GianniC.github.io
-Web Portfolio Test
+Web Portfolio
